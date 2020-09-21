@@ -1,0 +1,2 @@
+djangorest_framework
+psycopg2
